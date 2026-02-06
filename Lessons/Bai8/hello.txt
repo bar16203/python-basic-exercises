@@ -1,0 +1,2 @@
+Hello Ivan Danh
+Welcome to Python file handling.

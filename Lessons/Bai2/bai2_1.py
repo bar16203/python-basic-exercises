@@ -1,0 +1,6 @@
+value = input("Enter eny number: ")
+print("Initial value: ", value)
+print("Type: ", type(value))
+newValue = int(value)
+print("New value: ", newValue)
+print("New type: ", type(newValue))
